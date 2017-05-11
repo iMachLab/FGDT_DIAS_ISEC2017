@@ -11,9 +11,13 @@ Reddy, Preetham N., Sahith N. Dambekodi, and Tirtharaj Dash. "Towards Continuous
 *[BibTex]*
 
 @article{reddy2017towards,
+
   title={Towards Continuous Monitoring of Environment under Uncertainty: A Fuzzy Granular Decision Tree Approach},
+  
   author={Reddy, Preetham N and Dambekodi, Sahith N and Dash, Tirtharaj},
+  
   year={2017}
+  
 }
 
 Paper Link: http://ceur-ws.org/Vol-1819/dias2017-paper1.pdf
